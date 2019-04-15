@@ -32,4 +32,4 @@ Options:
     --remove            deletes server from cloud, sensu and opensips db
     --repop             this redeploys a container to an exsisting server
     --deploy-container  deploys a container of the specified name to the host
-    ````
+    ```
